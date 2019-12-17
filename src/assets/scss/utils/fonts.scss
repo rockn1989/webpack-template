@@ -1,0 +1,17 @@
+// Fonst here
+
+@font-face {
+	font-family: "SF";
+	src: url("/assets/fonts/sf/SFUIText-Regular.woff2"),url("../fonts/sf/SFUIText-Regular.woff");
+	font-style: normal;
+	font-weight: 400;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: "SF";
+	src: url("/assets/fonts/sf/SFUIText-Medium.woff2"),url("../fonts/sf/SFUIText-Medium.woff");
+	font-style: normal;
+	font-weight: 500;
+	font-display: swap;
+}
