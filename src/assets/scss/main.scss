@@ -1,3 +1,10 @@
+
+@import './utils/fonts';
+body {
+	font-family: 'SF';
+	font-weight: 500;
+}
+
 h1 {
 	color: red;
 	font-size: 24px;
@@ -14,6 +21,5 @@ h3 {
 }
 
 .wrapper {
-	background-image: url('/assets/img/made-for-each-other.png');
 	width: 100%;
 }
